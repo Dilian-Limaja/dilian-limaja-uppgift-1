@@ -1,0 +1,18 @@
+ p {
+   color: rgb(62, 139, 255);
+
+
+ }
+
+ body {
+   font-family: Verdana, sans-serif;
+   font-size: 1.22rem;
+   background-color: rgb(0, 0, 0);
+ }
+
+ h1 {
+   font-size: 1.7rem;
+   color: rgb(62, 139, 255);
+ }
+
+ p {}
